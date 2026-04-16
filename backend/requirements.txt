@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+qdrant-client[fastembed]
+sentence-transformers
+langdetect
+sqlalchemy
+python-multipart
+httpx
+openai
+google-genai

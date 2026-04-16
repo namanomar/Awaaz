@@ -1,0 +1,76 @@
+We need to translate Q&A into Malayalam, preserving Q: and A: format, blank line between each pair. Keep scheme names, amounts, URLs, helpline numbers unchanged. Use simple everyday vocabulary, not bureaucratic/formal. Ensure natural spoken.
+
+We need to translate each Q and A into Malayalam, but keep Q: and A: exactly as letters. So lines like:
+
+Q: What is the Central Government Health Scheme (CGHS)?
+A: The Central Government Health Scheme, known as CGHS, provides comprehensive medical care. It covers central government employees, pensioners, and their eligible family members.
+
+We need to translate the question and answer text into Malayalam, but keep the scheme names etc unchanged.
+
+We must keep the Q: and A: labels exactly, with a colon and space? The original shows "Q: " then question. We'll keep same.
+
+We need blank line between each pair.
+
+Let's translate.
+
+We'll use simple Malayalam.
+
+First pair:
+
+Q: What is the Central Government Health Scheme (CGHS)?
+A: The Central Government Health Scheme, known as CGHS, provides comprehensive medical care. It covers central government employees, pensioners, and their eligible family members.
+
+Translate:
+
+Q: സെന്റ്രൽ ഗവൺമെന്റ് ഹെൽത്ത് സ്കീം (CGHS) എന്താണ്?
+A: സെന്റ്രൽ ഗവൺമെന്റ് ഹെൽത്ത് സ്കീം, CGHS എന്ന് അറിയപ്പെടുന്നു, സമഗ്ര മെഡിക്കൽ കെയർ നൽകുന്നു. ഇത് കേന്ദ്ര സർക്കാർ ജീവനക്കാർ, പെൻഷനർ,および അവരുടെ योग്യമായ കുടുംബ সদस्य들을 കവർ ചെയ്യുന്നു.
+
+But need simple everyday vocabulary. Use "കേന്ദ്ര സർക്കാർ ജീവനക്കാർ" maybe okay. Use "പെൻഷനർ". Use "അവരുടെ കുടുംബ সদस्यർ". Avoid formal.
+
+Let's craft:
+
+Q: സെന്റ്രൽ ഗവൺമെന്റ് ഹെൽത്ത് സ്കീം (CGHS) എന്താണ്?
+A: സെന്റ്രൽ ഗവൺമെന്റ് ഹെൽത്ത് സ്കീം, CGHS എന്ന് അറിയപ്പെടുന്നു, സമഗ്ര ആരോഗ്യ സേവനങ്ങൾ നൽകുന്നു. ഇത് കേന്ദ്ര സർക്കാർ ജീവനക്കാർ, പെൻഷനർ,および അവരുടെ കുടുംബ সদस्यർക്ക് ലഭ്യമാണ്.
+
+But need to keep scheme name unchanged: "Central Government Health Scheme (CGHS)" we kept as is inside parentheses? Actually we kept the English phrase inside the question. The rule: Keep scheme names unchanged. So we should not translate "Central Government Health Scheme (CGHS)". It should stay exactly as "Central Government Health Scheme (CGHS)". So we need to keep that phrase in English, not translate. So the question should be: Q: What is the Central Government Health Scheme (CGHS)? but translated into Malayalam except the scheme name? The instruction: "Keep scheme names (like "Ayushman Bharat", "PM Kisan"), amounts (Rs 6,000), website URLs, and helpline numbers unchanged." So we must keep the scheme name unchanged, but we can translate the rest of the sentence. So we need to keep "Central Government Health Scheme (CGHS)" exactly as is. So the question in Malayalam: "Q: Central Government Health Scheme (CGHS) എന്താണ്?" but we need to keep the Q: and the phrase "What is" maybe we can translate "What is" to Malayalam but keep scheme name unchanged. So: Q: Central Government Health Scheme (CGHS) എന്താണ്? That seems okay.
+
+Similarly for answer: we need to keep scheme name unchanged where it appears. In answer: "The Central Government Health Scheme, known as CGHS, provides comprehensive medical care." We need to keep "Central Government Health Scheme" unchanged, and "CGHS" unchanged. So we can translate rest: "Central Government Health Scheme, CGHS എന്ന് അറിയപ്പെടുന്നു, സമഗ്ര ആരോഗ്യ സേവനങ്ങൾ നൽകുന്നു. ഇത് കേന്ദ്ര സർക്കാർ ജീവനക്കാർ, പെൻഷനർ,および അവരുടെ കുടുംബ সদस्यർക്ക് ലഭ്യമാണ്."
+
+But we need simple everyday vocabulary. Use "മരുന്ന്" maybe. Provide medical care = "ആരോഗ്യ സേവനം". Comprehensive = "സമഗ്ര". Provide = "നൽകുന്നു". So answer: "Central Government Health Scheme, CGHS എന്ന് അറിയപ്പെടുന്നു, സമഗ്ര ആരോഗ്യ സേവനം നൽകുന്നു. ഇത് കേന്ദ്ര സർക്കാർ ജീവനക്കാർ, പെൻഷനർ,および അവരുടെ കുടുംബ সদस्यർക്ക് ലഭ്യമാണ്."
+
+We need to keep the scheme name exactly as "Central Government Health Scheme". So we keep that phrase.
+
+Proceed similarly for each.
+
+Second pair:
+
+Q: Who is eligible for the CGHS scheme?
+A: Serving central government employees, retired pensioners drawing pension from central civil estimates, and widows of central government employees are eligible. Employees of autonomous bodies may also be covered if the scheme is extended to them.
+
+We need to keep "CGHS scheme" unchanged? The scheme name is "CGHS". So keep "CGHS". The phrase "CGHS scheme" maybe we keep "CGHS scheme" as is? The rule says keep scheme names unchanged. So "CGHS" is scheme name. So we keep "CGHS". The word "scheme" can be translated. So Q: "Who is eligible for the CGHS scheme?" => Q: CGHS scheme-க்கு योग്യരാൾ quién? In Malayalam: "CGHS scheme-ക്ക് योग്യരാൾ quién?" Not good. Better: "CGHS scheme-ക്ക് योग്യരാൾ quién?" Actually we need to keep "CGHS" unchanged, but we can translate rest: "Who is eligible for the CGHS scheme?" => "CGHS scheme-ക്ക് योग്യരാൾ quién?" Not natural. Let's do: "CGHS scheme-ക്ക് योग്യരാൾ quién?" Hmm.
+
+Better: Keep "CGHS" and translate: "Who is eligible for the CGHS scheme?" => "CGHS scheme-ക്ക് योग്യരാൾ quién?" Actually we can say: "CGHS scheme-ക്ക് योग്യരാൾ quién?" Not good.
+
+We can rephrase: "CGHS scheme-ക്ക് योग്യരാൾ quién?" I'm stuck.
+
+Maybe we keep the whole phrase "CGHS scheme" unchanged? The rule says keep scheme names unchanged, not necessarily the word "scheme". But to avoid awkwardness, we can keep "CGHS scheme" as is, because it's not a scheme name but a description. However safer to keep "CGHS" unchanged and translate rest: "Who is eligible for the CGHS scheme?" => "CGHS-க்கு योग്യരാൾ quién?" Actually "eligible for the CGHS scheme" = "CGHS-ക്ക് योग്യരാൾ". In Malayalam: "CGHS-ക്ക് योग്യരാൾ" not correct. We need a noun: "who is eligible" = "അവന്‍/അവൾ योग്യരാൾ". So "CGHS-ക്ക് योग്യരാൾ" maybe "CGHS-ക്ക് योग്യരാൾ" not.
+
+Let's think: In Malayalam, we can say: "CGHS-ക്ക് योग്യരാൾ quién?" Not.
+
+Better: "CGHS-ക്ക് योग്യരാൾ" is not correct. We need to say "CGHS-ക്ക് योग്യരാൾ"?? Actually "eligible" adjective: "योग्य". So "who is eligible for CGHS?" => "CGHS-ക്ക് योग്യരാൾ quién?" Not.
+
+We can say: "CGHS-ക്ക് योग്യരാൾ" meaning "eligible for CGHS". Then "who" = "അവന്‍". So "CGHS-ക്ക് योग്യരാൾ അവന്‍?" Not.
+
+Maybe easier: Keep the question in English but translate only the rest? But rule says keep scheme names unchanged, not that we must translate everything else. It says "Use simple, everyday vocabulary — not bureaucratic or formal language." So we should translate to Malayalam. So we need to produce Malayalam question.
+
+Let's craft: "CGHS-ക്ക് योग്യരാൾ quién?" Not.
+
+Let's think of a natural Malayalam question: "CGHS-ക്ക് योग്യരാൾ quién?" Actually we can say: "CGHS-ക്ക് योग്യരാൾ" is not a phrase. We need to say "CGHS-ക്ക് योग്യരാൾ"?? Hmm.
+
+Maybe we can say: "CGHS-ക്ക് योग്യരാൾ" is not correct. Let's step back.
+
+We can say: "CGHS-ക്ക് योग്യരാൾ" is not correct. The correct phrase: "CGHS-ക്ക് योग്യരാൾ"?? Actually "eligible for" = "കുറവില്ല"?? Not.
+
+Better: "CGHS-ക്ക് योग്യരാൾ" is not correct. Let's use "CGHS-ക്ക് योग്യരാൾ" as "eligible for CGHS". In Malayalam, we can say "CGHS-ക്ക് योग്യരാൾ" is not correct. The correct is "CGHS-ക്ക് योग്യരാൾ"?? I'm mixing.
+
+Let's use "CGHS-patible

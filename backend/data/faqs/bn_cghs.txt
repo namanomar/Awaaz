@@ -1,0 +1,67 @@
+We need to translate Q&A into Bengali, preserving Q: and A: format, blank line between each pair. Keep scheme names, amounts, URLs, helpline numbers unchanged. Use simple everyday vocabulary, not bureaucratic/formal. Ensure natural spoken language.
+
+We need to translate each Q and A into Bengali, but keep Q: and A: exactly as letters? Probably keep "Q:" and "A:" unchanged. Then after colon, space then Bengali translation.
+
+We must keep scheme names like "Central Government Health Scheme (CGHS)" unchanged? The instruction: Keep scheme names (like "Ayushman Bharat", "PM Kisan"), amounts (Rs 6,000), website URLs, and helpline numbers unchanged. So scheme names should stay as original English? It says keep scheme names unchanged. So we should not translate "Central Government Health Scheme (CGHS)". Keep it as is. Similarly "CGHS" remains. Also "CGHS Wellness Centres" maybe keep as is? It's a scheme name? Probably keep unchanged. But we can translate surrounding text.
+
+We must keep amounts like Rs 250 per month to Rs 1,000 per month unchanged. Keep website URLs: cghs.gov.in unchanged. Helpline number: 1800-11-4477 unchanged.
+
+We need to use simple everyday vocabulary, not bureaucratic/formal. So translate explanations in simple Bengali.
+
+Let's produce each pair.
+
+First pair:
+
+Q: What is the Central Government Health Scheme (CGHS)?
+A: The Central Government Health Scheme, known as CGHS, provides comprehensive medical care. It covers central government employees, pensioners, and their eligible family members.
+
+Translate A: "সেন্টরাল গওর্নমেন্ট হেলথ স্কিম, যা CGHS নামে পরিচিত, সম্পূর্ণ চিকিৎসা সেবা প্রদান করে। এটি কেন্দ্রীয় সরকারের কর্মচারী, পেনশনপ্রাপ্ত এবং তাদের যোগ্য পরিবার সদস্যদের জন্য উপলব্ধ."
+
+But we must keep scheme name unchanged: "Central Government Health Scheme (CGHS)" appears in the sentence. We need to keep that exact phrase. So we should not translate "Central Government Health Scheme (CGHS)". Keep it as is. So A: "Central Government Health Scheme (CGHS), যা CGHS নামে পরিচিত, সম্পূর্ণ চিকিৎসা সেবা প্রদান করে। এটি কেন্দ্রীয় সরকারের কর্মচারী, পেনশনপ্রাপ্ত এবং তাদের যোগ্য পরিবার সদস্যদের জন্য উপলব্ধ."
+
+But we used "কেন্দ্রীয় সরকারের" which is okay. Keep scheme name unchanged.
+
+Second pair: Q: Who is eligible for the CGHS scheme?
+A: Serving central government employees, retired pensioners drawing pension from central civil estimates, and widows of central government employees are eligible. Employees of autonomous bodies may also be covered if the scheme is extended to them.
+
+Translate A: "সেবা दे रहे কেন্দ্রীয় সরকারের কর্মচারী, কেন্দ্রীয় সিভিল estimate থেকে পেনশন পাচ্ছেন বরिष्ठ পেনশনপ্রাপ্ত, এবং কেন্দ্রীয় সরকারের কর্মচারীর বোদমা উপলব্ধ। স্বয়ংশাসিত সংস্থার কর্মচারীও যদি স্কিম তাদের কাছে প্রসারিত হয় তবে তারা কভারড হতে পারে।"
+
+But need to keep scheme name "CGHS scheme" unchanged? The phrase "CGHS scheme" includes scheme name; we should keep "CGHS scheme" unchanged. So A: "সেবা दे रहे CGHS scheme এর জন্য যোগ্য: সেবা दे रहे কেন্দ্রীয় সরকারের কর্মচারী, কেন্দ্রীয় সিভিল estimate থেকে পেনশন পাচ্ছেন বরিষ্ট পেনশনপ্রাপ্ত, এবং কেন্দ্রীয় সরকারের কর্মচারীর বোদমা। স্বয়ংশাসিত সংস্থার কর্মচারীও যদি স্কিম তাদের কাছে প্রসারিত হয় তবে তারা কভারড হতে পারে।"
+
+But we kept "CGHS scheme" unchanged. Also "central civil estimates" maybe keep as is? It's not a scheme name, but we can translate? The instruction only says keep scheme names, amounts, URLs, helpline numbers unchanged. So we can translate "central civil estimates". But better to keep simple. We'll translate.
+
+Third pair: Q: How do I apply for a CGHS card?
+A: If you are a serving employee, you should apply for your CGHS card through your department or office. Pensioners need to apply at the CGHS office located in their city.
+
+Translate A: "यदि आप एक सेविंग कर्मचारी हैं, तो आपको अपने विभाग या कार्यालय के माध्यम से अपना CGHS कार्ड आवेदन करना चाहिए। पेंशनभोगियों को अपने शहर में स्थित CGHS कार्यालय में आवेदन करना पड़ता है।"
+
+But we need Bengali. Use simple Bengali. Keep "CGHS card" unchanged? It's scheme name? Probably keep "CGHS card" unchanged as it includes scheme name. So: "यदि आप एक सेविंग कर्मचारी हैं, तो आपको अपने विभाग या कार्यालय के माध्यम से अपना CGHS कार्ड Apply करना चाहिए। पेंशनभोगियों को अपने शहर में स्थित CGHS office में Apply करना पड़ता है।" But we should translate verbs to Bengali. Use simple Bengali: "আপলোড" not needed. Use "আবেদন করুন". Keep "CGHS card" unchanged. Keep "CGHS office" unchanged? It includes scheme name, so keep unchanged.
+
+Thus: "यदि आप एक सेविंग कर्मचारी हैं, तो आपको अपने विभाग या कार्यालय के माध्यम से अपना CGHS कार्ड Apply करना चाहिए। पेंशनभोगियों को अपने शहर में स्थित CGHS office में Apply करना पड़ता है।" But we need Bengali. Let's write in Bengali script: "यदि" is Hindi; we need Bengali. So: "যদি আপনি একটি সার্ভিং কর্মচারী হন, তাহলে আপনাকে আপনার বিভাগ বা অফিসের মাধ্যমে আপনার CGHS কার্ড আবেদন করতে হবে। পেনশনপ্রাপ্তদের তাদের শহরে स्थित CGHS অফিসে আবেদন করতে হবে।"
+
+We kept "CGHS card" and "CGHS office" unchanged.
+
+Fourth pair: Q: What is the monthly contribution for CGHS?
+A: The monthly contribution for CGHS varies based on your pay band or pension level. It ranges from Rs 250 per month to Rs 1,000 per month.
+
+Translate A: "CGHS এর মাসিক অবদান আপনার পে ব্যান্ড বা পেনশন স্তরের উপর নির্ভর করে পরিবর্তিত হয়। এটি Rs 250 থেকে Rs 1,000 प्रति মাস পর্যন্ত রेंজে থাকে।"
+
+We need to keep amounts unchanged: "Rs 250 per month" and "Rs 1,000 per month". Keep "Rs". So: "CGHS এর মাসিক অবদান আপনার পে ব্যান্ড বা পেনশন স্তরের উপর নির্ভর করে পরিবর্তিত হয়। এটি Rs 250 per month থেকে Rs 1,000 per month পর্যন্ত রেঞ্জে থাকে।"
+
+But we should keep "per month" unchanged? It's not scheme name, but we can keep as is or translate. Safer to keep as is because it's part of amount expression. Keep "per month". So: "Rs 250 per month" and "Rs 1,000 per month". Good.
+
+Fifth pair: Q: What services are available at CGHS Wellness Centres?
+A: CGHS Wellness Centres offer OPD consultations, provide medicines, and facilitate diagnostic tests. There are over 330 such centres located in 79 cities across India.
+
+Translate A: "CGHS Wellness Centres OPD পরামর্শ দেয়, ওষুধ প্রদান করে এবং নिदান পরীক্ষা সুবিধা দেয়। ভারতের 79 শহরে 330 ততোধিক এই ধরনের কেন্দ্র আছে।"
+
+We need to keep "CGHS Wellness Centres" unchanged. Keep "OPD" maybe okay. Keep numbers unchanged: "over 330", "79". So: "CGHS Wellness Centres OPD পরামর্শ দেয়, ওষুধ প্রদান করে এবং নिदান পরীক্ষা সুবিধা দেয়। ভারতের 79 শহরে 330 ততোধিক এই ধরনের কেন্দ্র আছে।"
+
+Sixth pair: Q: How can I get specialist or hospital treatment under CGHS?
+A: To receive specialist or hospital treatment, you must first obtain a referral. This referral needs to be issued by a CGHS Medical Officer.
+
+Translate A: "বিশেষজ্ঞ বা হাসপাতালের চিকিৎসা পেতে, প্রথমে একটি রেফারেল পেতে হবে। এই রেফারেলটি একটি CGHS Medical Officer দ্বারা জারি করা দরকার।"
+
+We need to keep "CGHS Medical Officer" unchanged. So: "বিশেষজ্ঞ বা হাসপাতালের চিকিৎসা পেতে, প্রথমে একটি রেফারেল পেতে হবে। এই রেফারেলটি একটি CGHS Medical Officer দ্বারা জারি করা দরকার।"
+
+Seventh pair: Q: Can I get treatment at private hospitals with CGHS?

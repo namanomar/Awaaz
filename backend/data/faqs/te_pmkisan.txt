@@ -1,0 +1,71 @@
+We need to translate Q&A into Telugu, preserving Q: and A: format, blank line between each pair. Keep scheme names, amounts, URLs, helpline numbers unchanged. Use simple everyday vocabulary, not bureaucratic. Ensure natural spoken.
+
+We'll translate each answer into Telugu, simple language. Keep Q: as is, A: as is. Provide blank line between pairs.
+
+Let's translate.
+
+First pair:
+
+Q: What is PM Kisan Samman Nidhi?
+A: PM Kisan Samman Nidhi is a central government scheme that provides Rs 6,000 per year in direct income support to small and marginal farmer families. The amount is paid in three equal instalments of Rs 2,000 every four months directly to the farmer's bank account. Helpline: 155261 or 011-23381092.
+
+Translate A: "PM Kisan Samman Nidhi, కేంద్ర ప్రభుత్వ యొక్క ఒక పథకం, చిన్న మరియు తక్కువ భూమి కలిగిన కూతుల కుటుంబాలకు ప్రతి సంవత్సరం Rs 6,000 మూలాయం ఆదాయ మద్దతు అందిస్తుంది. ఈ రూపాయెను నెలలలో నాలుగు నెలల마다 సమానంగా మూడు కিস্তులుగా Rs 2,000 ప్రతి కিস্তి, కూతుల ব্যাংక్ ఖాతetosకు সরাসরি పంపబడుతుంది. హెల్ప్‌లైన్: 155261 లేదా 011-23381092."
+
+Need simple everyday vocab. Use "కेंद्र ప్రభుత్వ" maybe okay. Use "మూలాయం" maybe not everyday; better "పెద్దమొత్తం" or "పెద్దమొత్తం"? Actually "direct income support" could be "సరাসরি ఆదాయ మద్దతు". Use "సరাসরি". Keep simple.
+
+Let's craft: "PM Kisan Samman Nidhi, కేంద్ర ప్రభుత్వ యొక్క ఒక పథకం, చిన్న మరియు తక్కువ భూమి కలిగిన కూతుల కుటుంబాలకు ప్రతి సంవత్సరం Rs 6,000 మూలాయం (సరాసরি) ఆదాయ మద్దతు అందిస్తుంది. ఈ రూపాయెను నాలుగు నెలల마다 సమానంగా మూడు కিস্তులుగా Rs 2,000 ప్రతి కিস্তి, కూతుల ব্যাংక్ ఖాతetosకు সরাসরি పంపబడుతుంది. హెల్ప్‌లైన్: 155261 లేదా 011-23381092."
+
+Make sure keep amounts unchanged: Rs 6,000, Rs 2,000.
+
+Second pair:
+
+Q: Who is eligible for PM Kisan?
+A: All small and marginal farmer families who own cultivable land are eligible. There is no minimum land requirement. The scheme covers landholding farmers with cultivable land as per land records. Institutional landholders, government employees, and income tax payers are not eligible.
+
+Translate: "పెద్దమొత్తం (సమృద్ధి) లేదా చిన్న, తక్కువ భూమి కలిగిన, cultivo చేయగల భూమి కలిగిన కూతుల కుటుంబాలు అర్హత కలిగి ఉంటాయి. Tierra mínima అవసరం లేదు. ఈ Scheme, భూమి రికార్డుల ప్రకారం cultivo చేయగల భూమి కలిగిన కూతులను కవర్ చేస్తుంది. సంస్థల భూమి धारకులు, ప్రభుత్వ ఉద్యోగులు, మరియు ఆయక_tx చెల్లింపు చేయುವవారు అర్హత లేదు."
+
+But need simple language. Use "వ్యవసాయం చేయగల భూమి" maybe. Keep scheme name unchanged? It says "The scheme". Keep as is? Probably keep English "scheme". But we can translate loosely but keep meaning. Use "ఈ Scheme" maybe keep English. Better keep "ఈ Scheme" as is? The instruction: Keep scheme names unchanged, but "scheme" generic not a name. Could translate. Use simple.
+
+Let's produce: "వ్యవసాయం చేయగల భూమి కలిగిన, చిన్న మరియు తక్కువ భూమి కలిగిన కూతుల కుటుంబాలు అర్హత కలిగి ఉంటాయి. Tierra mínima అవసరం లేదు. ఈ Scheme, భూమి రికార్డుల ప్రకారం cultivo చేయగల భూమి కలిగిన కూతులను కవర్ చేస్తుంది. సంస్థల భూమి धारకులు, ప్రభుత్వ ఉద్యోగులు, మరియు ఆయక_tx చెల్లింపు చేయುವవారు అర్హత లేదు."
+
+But need to keep amounts etc unchanged; none here.
+
+Third pair:
+
+Q: How do I apply for PM Kisan?
+A: Visit your nearest Common Service Centre or the PM Kisan portal at pmkisan.gov.in. You can also approach your agriculture department office. Self-registration is available online at pmkisan.gov.in/RegistrationForm.aspx.
+
+Translate: "మీ దగ్గర ఉన్న Common Service Centre కి వెళ్లండి లేదా PM Kisan పోర్టల్ pmkisan.gov.in ని 브라우జ్ చేయండి. మీ వ్యవసాయ Vibhag (వिभాగం) অফీస్‌కి కూడా వెళ్లవచ్చు. ఆన్‌లైన్‌లో స్వయంగా రిజిస్ట్రేషన్ pmkisan.gov.in/RegistrationForm.aspx లో అందుబాటులో ఉంది."
+
+Need simple: "మీ దగ్గర ఉన్న Common Service Centre కి వెళ్లండి లేదా PM Kisan వెబ్‌సైట్ pmkisan.gov.in ని খুলి చూడండి. మీ వ్యవసాయ Vibhag (వिभాగం) অফీస్‌కి కూడా వెళ్లవచ్చు. ఆన్‌లైన్‌లో స్వయంగా రిజిస్ట్రేషన్ pmkisan.gov.in/RegistrationForm.aspx లో అందుబాటులో ఉంది."
+
+Keep URL unchanged.
+
+Fourth pair:
+
+Q: What documents are needed for PM Kisan registration?
+A: You need your Aadhaar card, land ownership records (khata/khasra number), bank account details with IFSC code, and mobile number linked to Aadhaar. Make sure your Aadhaar is linked to your bank account for direct transfer.
+
+Translate: "మీకు Aadhaar కార్డు, భూమి స్వామి రికార్డులు (khata/khasra నంబర్), IFSC కోడ్ కలిగిన ব্যাংక్ ఖాతా వివరాలు, మరియు Aadhaar‑లింక్ చేసిన మొబైల్ నంబర్ అవసరం. మీ Aadhaar‑ను మీ ব্যাংక్ ఖాతాతో లింక్ చేయండి, తద్వారా সরాసরি טרांसferrer్ (డైరెక్ట్ ट्रांसफर) అవుతుంది."
+
+Simplify: "మీకు Aadhaar కార్డు, భూమి స్వామి రికార్డులు (khata/khasra నంబర్), IFSC కోడ్ కలిగిన ব্যাংక్ ఖాతా వివరాలు, మరియు Aadhaar‑లింక్ చేసిన మొబైల్ నంబర్ అవసరం. మీ Aadhaar‑ను మీ ব্যাংక్ ఖాతాతో లింక్ చేయండి, దీనీ ద్వారా డైరెక్ట్ ट्रांसफर (డైరెక్ట్ ट्रांसफर) అవుతుంది."
+
+But keep amounts etc unchanged.
+
+Fifth pair:
+
+Q: How do I check my PM Kisan payment status?
+A: Visit pmkisan.gov.in and click on "Beneficiary Status". Enter your Aadhaar number or mobile number or account number to check your payment status and instalment details.
+
+Translate: "pmkisan.gov.in ని খুলి, \"Beneficiary Status\" అప్షన్‌పై క్లిక్ చేయండి. మీ Aadhaar నంబర్, మొబైల్ నంబర్, లేదా ব্যাংక్ ఖాతా నంబర్ cualquiera 하나를 నమోదు చేయండి,.payment status మరియు కিস্তి వివరాలను చూడవచ్చు."
+
+Simplify: "pmkisan.gov.in ని খুলి, \"Beneficiary Status\" అప్షన్‌పై క్లిక్ చేయండి. మీ Aadhaar నంబర్, మొబైల్ నంబర్, లేదా ব্যাংక్ ఖాతా నంబర్ cualquiera 하나를 నమోదు చేయండి,.payment status మరియు కিস্তి వివరాలను చూడవచ్చు."
+
+But keep URL unchanged.
+
+Sixth pair:
+
+Q: My PM Kisan instalment is not received. What should I do?
+A: First check your status at pmkisan.gov.in. Common reasons for non-payment include Aadhaar not linked to bank account, incorrect bank details, or your name not matching Aadhaar. Contact your local agriculture officer or call helpline 155261 to resolve.
+
+Translate: "మీ PM Kisan కিস্তి వస్తుందా? మొదట pmkisan.gov.in ని খులి మీ స్థితి چెక్ చేయండి. చెల్లింపు లేవvu కారణాలు: Aadhaar‑ను ব্যাংక్ ఖాతాతో లింక్ చేయలేదు, ব্যাংక్ వివరాలు తప్పు, లేదా మీ పేరు Aadhaar‑తో సరిపోలదు. మీ స్థಳ వ్యవసాయesa
