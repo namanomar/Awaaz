@@ -6,7 +6,7 @@
 
 **Ask any government question. Get an answer — in your language.**
 
-*Built for HackBLR 2025 · Track 3: Voice AI for Accessibility & Societal Impact*
+*Built for HackBLR 2026 · Track 3: Voice AI for Accessibility & Societal Impact*
 
 ---
 
@@ -315,6 +315,6 @@ curl -s -X POST https://namanomar-awaaz-backend.hf.space/webhook \
 
 **Every citizen deserves to know their rights. Now they can just ask.**
 
-Made with ❤️ at HackBLR 2025
+Made with ❤️ at HackBLR 
 
 </div>
